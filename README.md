@@ -8,3 +8,20 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No matter whether the glass is half-empty or half-full, as long as you have water in it, just drink it.😉
+<br>
+
+### Connect with me:
+
+[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+<br>
+
+
+[twitter]: https://twitter.com/Random_CSE_guy
+[facebook]: https://www.facebook.com/faiz.shah.98499/
+[linkedin]: https://www.linkedin.com/in/faiz-shah-0b5955189
+[instagram]: https://www.instagram.com/neighbourhood_guy/
