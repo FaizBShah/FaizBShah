@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Earthquake Reporting App
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android/React
