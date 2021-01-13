@@ -9,6 +9,13 @@
 - ⚡ Fun fact: No matter whether the glass is half-empty or half-full, as long as you have water in it, just drink it.😉
 <br>
 
+<a href="https://github.com/faizbshah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizbshah&theme=dracula&line_langs_below=1" />
+</a>
+<a href="https://github.com/faizbshah">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=faizbshah&show_icons=true&theme=dracula&line_height=27" alt="Faiz's github stats"/>
+</a>
+
 ### Connect with me:
 
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -19,6 +26,7 @@
 <br>
 <br>
 
+### Show some ❤️ by starring some of the repositories!
 
 [twitter]: https://twitter.com/Random_CSE_guy
 [facebook]: https://www.facebook.com/faiz.shah.98499/
