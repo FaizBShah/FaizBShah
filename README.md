@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Github Assistant App
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on a PDF-to-Audio file converter
+- 🌱 I’m currently learning SpringBoot
 - 👯 I’m looking to collaborate on Android/React
 - 🤔 I’m looking for help with Django/Flask
 - 💬 Ask me about Animes ✪ ω ✪ and Football⚽
