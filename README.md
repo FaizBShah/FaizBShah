@@ -48,9 +48,9 @@ Hi 👋, I am **Faiz**, a Software Developer who loves Anime ༼ つ ◕_◕ ༽
 
 <p align="left">
   <a href="https://github.com/FaizBShah/AirConf"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=FaizBShah&repo=AirConf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/FaizBShah/"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=FaizBShah&repo=Audifie-Backend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/FaizBShah/AirConf"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=FaizBShah&repo=ImageShrink&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/FaizBShah"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaizBShah&repo=DevConnector&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/FaizBShah/Audifie-Backend"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=FaizBShah&repo=Audifie-Backend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/FaizBShah/ImageShrink"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=FaizBShah&repo=ImageShrink&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/FaizBShah/Devconnector"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaizBShah&repo=Devconnector&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
 <p align="left">
