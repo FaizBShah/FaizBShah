@@ -39,7 +39,7 @@ Hi 👋, I am **Faiz**, a Software Developer who loves Anime ༼ つ ◕_◕ ༽
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/vllA9Gg.jpeg"/>
+<a href="https://readhxh.com"><img align="right" width="38%" src="https://i.imgur.com/vllA9Gg.jpeg" alt="Hisoka Cover Image" title="Faiz wants you to click on this so that you can start reading the masterpiece that is Hunter x Hunter" /></a>
 
   <a href="https://github.com/FaizBShah"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=FaizBShah&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/FaizBShah"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=FaizBShah&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
