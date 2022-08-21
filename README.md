@@ -13,7 +13,7 @@
 
 <p>
   
-Hi 👋, I am **Faiz**, a Software Developer who loves Anime ༼ つ ◕_◕ ༽つ🧡, Football ⚽ and Tech 💻....with a cup of cappucino ☕ (～￣▽￣)～
+Hi 👋, I am **Faiz**, a Software Developer who loves **Anime** ༼ つ ◕_◕ ༽つ🧡, **Football** ⚽ and **Tech** 💻....with a cup of cappucino ☕ (～￣▽￣)～
 
 <div>
 <details>
